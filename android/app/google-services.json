@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1010033569078",
+    "project_id": "mobile-deneme-6fd64",
+    "storage_bucket": "mobile-deneme-6fd64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010033569078:android:53e6a736a5d27d47b95797",
+        "android_client_info": {
+          "package_name": "com.example.budget_tracker_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010033569078-0tf77cismkvck9cshcobvltp9uvgan70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1QkCTDp7t5Db0Cd9GmfnRTKQaTJxhwL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010033569078-0tf77cismkvck9cshcobvltp9uvgan70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010033569078:android:6a31a7d3af278456b95797",
+        "android_client_info": {
+          "package_name": "com.money_manager.money_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010033569078-0tf77cismkvck9cshcobvltp9uvgan70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1QkCTDp7t5Db0Cd9GmfnRTKQaTJxhwL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010033569078-0tf77cismkvck9cshcobvltp9uvgan70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
